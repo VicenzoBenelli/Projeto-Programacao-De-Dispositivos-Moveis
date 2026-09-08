@@ -1,1 +1,1 @@
-# Projeto-de-Programa-o-de-Dispositivos-moveis-
+# Projeto-Programacao-De-Dispositivos-Moveis
