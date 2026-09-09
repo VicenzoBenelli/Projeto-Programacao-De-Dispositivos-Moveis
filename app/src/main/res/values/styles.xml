@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.MeuCurso.Institution" parent="@android:style/TextAppearance.Material.Subhead">
+        <item name="android:textColor">@color/primary</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.MeuCurso.Title" parent="@android:style/TextAppearance.Material.Headline">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.MeuCurso.Title.Left" parent="TextAppearance.MeuCurso.Title">
+        <item name="android:gravity">start</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+
+    <style name="TextAppearance.MeuCurso.SectionLabel" parent="@android:style/TextAppearance.Material.Caption">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/secondary_dark</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.MeuCurso.Body" parent="@android:style/TextAppearance.Material.Body1">
+        <item name="android:lineSpacingExtra">3dp</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="TextAppearance.MeuCurso.Body.Left" parent="TextAppearance.MeuCurso.Body">
+        <item name="android:gravity">start</item>
+    </style>
+
+    <style name="TextAppearance.MeuCurso.Info" parent="@android:style/TextAppearance.Material.Body1">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Widget.MeuCurso.Button.Primary" parent="@android:style/Widget.Material.Button">
+        <item name="android:backgroundTint">@color/primary</item>
+        <item name="android:minHeight">52dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Widget.MeuCurso.Button.Secondary" parent="@android:style/Widget.Material.Button">
+        <item name="android:backgroundTint">@color/secondary</item>
+        <item name="android:minHeight">52dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Widget.MeuCurso.Discipline" parent="@android:style/Widget.Material.TextView">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:layout_margin">6dp</item>
+        <item name="android:background">@drawable/bg_disciplina</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minHeight">112dp</item>
+        <item name="android:padding">14dp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
