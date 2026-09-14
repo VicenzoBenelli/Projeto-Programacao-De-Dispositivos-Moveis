@@ -9,6 +9,10 @@
         android:theme="@style/Theme.MeuCurso">
 
         <activity
+            android:name=".DetalhesDisciplinaActivity"
+            android:exported="false" />
+
+        <activity
             android:name=".DisciplinasActivity"
             android:exported="false" />
 

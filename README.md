@@ -5,11 +5,14 @@ Análise e Desenvolvimento de Sistemas do Instituto Futuro Digital.
 
 ## Requisitos atendidos
 
-- Três telas construídas com XML: Home, Sobre o curso e Disciplinas.
+- Quatro telas construídas com XML: Home, Sobre o curso, Disciplinas e Detalhes da disciplina.
 - Navegação entre telas com `Intent`, `startActivity()` e eventos de clique em Kotlin.
 - Uso de `TextView`, `Button`, `ImageView`, `ScrollView`, `LinearLayout` e `GridLayout`.
 - Duas imagens vetoriais diferentes em `res/drawable`.
-- Seis disciplinas organizadas em uma grade.
+- Seis disciplinas clicáveis organizadas em uma grade.
+- Envio do nome da disciplina para uma única tela de detalhes usando `putExtra()` e `getStringExtra()`.
+- Exibição de descrição, carga horária, modalidade, nível e pré-requisito para cada disciplina.
+- Botões para voltar à lista de disciplinas e retornar diretamente à Home.
 - Layouts visualmente diferentes para Home e Sobre o curso.
 
 ## Como executar

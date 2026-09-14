@@ -14,7 +14,7 @@
     <string name="descricao_detalhada">Curso superior voltado à criação de aplicativos, sites e sistemas. As aulas combinam fundamentos de programação, banco de dados e engenharia de software com projetos práticos que preparam o estudante para o mercado de tecnologia.</string>
 
     <string name="matriz_curricular">Matriz curricular</string>
-    <string name="descricao_disciplinas">Conheça seis áreas essenciais da formação.</string>
+    <string name="descricao_disciplinas">Toque em uma disciplina para conhecer seus detalhes.</string>
     <string name="programacao">Programação</string>
     <string name="banco_dados">Banco de Dados</string>
     <string name="engenharia_software">Engenharia de Software</string>
@@ -22,7 +22,34 @@
     <string name="desenvolvimento_mobile">Desenvolvimento Mobile</string>
     <string name="inteligencia_artificial">Inteligência Artificial</string>
 
+    <string name="detalhes_disciplina">Detalhes da disciplina</string>
+    <string name="descricao">Descrição</string>
+    <string name="carga_horaria_formato">Carga horária: %1$s</string>
+    <string name="modalidade_disciplina_formato">Modalidade: %1$s</string>
+    <string name="nivel_formato">Nível: %1$s</string>
+    <string name="pre_requisito_formato">Pré-requisito: %1$s</string>
+    <string name="carga_horaria_exemplo">Carga horária: 80 horas</string>
+    <string name="nivel_exemplo">Nível: Básico</string>
+    <string name="pre_requisito_exemplo">Pré-requisito: Nenhum</string>
+    <string name="voltar_home">Voltar à Home</string>
+
+    <string name="oitenta_horas">80 horas</string>
+    <string name="sessenta_horas">60 horas</string>
+    <string name="presencial">Presencial</string>
+    <string name="nivel_basico">Básico</string>
+    <string name="nivel_intermediario">Intermediário</string>
+    <string name="nivel_avancado">Avançado</string>
+    <string name="sem_prerequisito">Nenhum</string>
+    <string name="prerequisito_programacao">Programação</string>
+    <string name="prerequisito_programacao_banco">Programação e Banco de Dados</string>
+
+    <string name="descricao_programacao">Apresenta lógica de programação, variáveis, estruturas de decisão, repetição e funções para a criação dos primeiros programas.</string>
+    <string name="descricao_banco_dados">Estuda modelagem de dados, bancos relacionais e instruções SQL para armazenar, consultar e organizar informações.</string>
+    <string name="descricao_engenharia_software">Aborda requisitos, modelagem, testes e práticas de organização usadas no desenvolvimento de sistemas.</string>
+    <string name="descricao_desenvolvimento_web">Ensina a construir páginas e aplicações web utilizando HTML, CSS, JavaScript e conceitos de comunicação com servidores.</string>
+    <string name="descricao_desenvolvimento_mobile">Explora o desenvolvimento de aplicativos Android com Kotlin, layouts XML, navegação e interação com o usuário.</string>
+    <string name="descricao_inteligencia_artificial">Introduz técnicas de inteligência artificial, preparação de dados e algoritmos capazes de apoiar previsões e decisões.</string>
+
     <string name="descricao_imagem_instituicao">Ilustração de uma instituição de ensino</string>
     <string name="descricao_imagem_curso">Ilustração relacionada à programação e ao desenvolvimento de sistemas</string>
 </resources>
-

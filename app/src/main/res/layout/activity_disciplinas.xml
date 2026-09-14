@@ -46,26 +46,32 @@
             android:useDefaultMargins="false">
 
             <TextView
+                android:id="@+id/cardProgramacao"
                 style="@style/Widget.MeuCurso.Discipline"
                 android:text="@string/programacao" />
 
             <TextView
+                android:id="@+id/cardBancoDados"
                 style="@style/Widget.MeuCurso.Discipline"
                 android:text="@string/banco_dados" />
 
             <TextView
+                android:id="@+id/cardEngenhariaSoftware"
                 style="@style/Widget.MeuCurso.Discipline"
                 android:text="@string/engenharia_software" />
 
             <TextView
+                android:id="@+id/cardDesenvolvimentoWeb"
                 style="@style/Widget.MeuCurso.Discipline"
                 android:text="@string/desenvolvimento_web" />
 
             <TextView
+                android:id="@+id/cardDesenvolvimentoMobile"
                 style="@style/Widget.MeuCurso.Discipline"
                 android:text="@string/desenvolvimento_mobile" />
 
             <TextView
+                android:id="@+id/cardInteligenciaArtificial"
                 style="@style/Widget.MeuCurso.Discipline"
                 android:text="@string/inteligencia_artificial" />
 
